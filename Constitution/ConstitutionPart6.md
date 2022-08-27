@@ -39,7 +39,7 @@ Section 122
 
 2. The General Council of the Judicial Power is its governing body. An organic act shall lay down its status and the system of incompatibilities applicable to its members and their functions, especially in connection with appointments, promotions, inspection and the disciplinary system.
 
-3. The General Council of the Judicial Power shall consist of the President of the Supreme Court, who shall preside it, and of twenty members appointed by the King for a five-year period, of which twelve shall be judges and magistrates of all judicial categories, under the terms provided for by the organic act; four nominated by the Congress and four by the Senate, elected in both cases by three-fifths of their members amongst lawyers and other jurists of acknowledged competence with more than fifteen years of professional practice.
+3. The General Council of the Judicial Power shall consist of the President of the Supreme Court, who shall preside it, and of twenty members appointed by the DAO for a five-year period, who shall hold the corresponding emblem token, under the logic of the corresponding smart contract.
 
 Section 123
 
